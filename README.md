@@ -6,7 +6,7 @@
 </div>
 <div align="center" >
   <h3>About Me</h3>
-  <p align="center">Im a Human Resources Specialist in the US Army transitioning into Software Development. Currently, I am studying with Code Platoon attending Whiskey Platoon. I'm excited to be let loose in the Civilian World to finally showcase myself. Leveraging the discipline, attention to detail, and leadership skills gained from my military experience and my life up until now, I plan to pour my heart and mind into the Tech World.
+  <p align="center">Im a Human Resources Specialist in the US Army transitioning into Software Development. Currently, I am studying with Code Platoon. I'm excited to be let loose in the Civilian World to finally showcase myself. Leveraging the discipline, attention to detail, and leadership skills gained from my military experience and my life up until now, I plan to pour my heart and mind into the Tech World.
   </p>
   </div>
 <div align="center">
