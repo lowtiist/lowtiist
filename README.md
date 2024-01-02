@@ -1,10 +1,12 @@
-<p align="center">
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lowtiist.README" />
 
+<p align="center">
 ![](https://github.com/lowtiist/lowtiist/blob/main/standard.gif)
-
+</p>
+<p align="center">
 **Languages I have used**
-
+</p>
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -20,4 +22,4 @@
 
 ![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=lowtiist&theme=dark&show_icons=true)
 
-</p>
+
