@@ -17,4 +17,4 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 
-[![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=lowtiist)](https://github.com/anuraghazra/github-readme-stats)
+[![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=lowtiist?theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
