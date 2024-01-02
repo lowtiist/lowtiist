@@ -13,7 +13,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Figma](https://img.shields.io/badge/-figma-000000?style=flat&logo=figma-software&logoColor=white&logoColor=0052CC)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=white&logoColor=0052CC)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 
