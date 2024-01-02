@@ -1,4 +1,4 @@
-<p align="center"
+<p align="center">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lowtiist.README" />
 
 ![](https://github.com/lowtiist/lowtiist/blob/main/standard.gif)
@@ -19,4 +19,5 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 
 ![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api?username=lowtiist&theme=dark&show_icons=true)
+
 </p>
